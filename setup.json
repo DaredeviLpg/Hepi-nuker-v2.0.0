@@ -1,0 +1,9 @@
+{
+  "prefix": ".",
+  "bot_token": "bot token here",
+  "bot_status": "bot status here",
+  "spam_message": "spam message here",
+  "channel_names": "channel spam names here",
+  "server_name": "change server name here",
+  "role_names": "destroy role names here"
+}
